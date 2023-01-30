@@ -14,4 +14,7 @@ func main() {
 	// error :
 	// name = 100
 	// name = 1.23
+
+	var friendName string = "Tono"
+	fmt.Println(friendName)
 }
