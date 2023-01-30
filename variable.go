@@ -20,4 +20,7 @@ func main() {
 
 	var age = 7
 	fmt.Println(age)
+
+	country := "Indonesia"
+	fmt.Println(country)
 }
