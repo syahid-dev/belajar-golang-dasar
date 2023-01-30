@@ -17,4 +17,7 @@ func main() {
 
 	var friendName string = "Tono"
 	fmt.Println(friendName)
+
+	var age = 7
+	fmt.Println(age)
 }
