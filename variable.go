@@ -29,4 +29,7 @@ func main() {
 		lastName  = "Syahida"
 	)
 	fmt.Println(firstName, lastName)
+
+	firstName, middleName, lastName := "Kafaa", "Billahi", "Syahida"
+	fmt.Println(firstName, middleName, lastName)
 }
