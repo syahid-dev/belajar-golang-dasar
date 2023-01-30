@@ -23,4 +23,10 @@ func main() {
 
 	country := "Indonesia"
 	fmt.Println(country)
+
+	var (
+		firstName = "Kafaa Billahi"
+		lastName  = "Syahida"
+	)
+	fmt.Println(firstName, lastName)
 }
